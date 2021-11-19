@@ -1,1 +1,1 @@
-token = '' # токен бота из телеграмм-бота @BotFather
+token = '2119748252:AAGh7kpXvAjmjzvaJiv5PoRywKE0bCvmMis' # токен бота из телеграмм-бота @BotFather
